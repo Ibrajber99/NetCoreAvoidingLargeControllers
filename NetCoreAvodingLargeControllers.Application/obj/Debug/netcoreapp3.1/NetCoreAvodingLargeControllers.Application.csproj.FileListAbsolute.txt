@@ -1,0 +1,12 @@
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\bin\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.deps.json
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\bin\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\bin\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\obj\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\obj\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\obj\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\obj\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\obj\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.csproj.CopyComplete
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\obj\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvodingLargeControllers.Application\obj\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.pdb

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>NET_Core___Avoiding_Large_Controllers</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  
+  <ItemGroup>
+    <ProjectReference Include="..\NetCoreAvodingLargeControllers.Application\NetCoreAvodingLargeControllers.Application.csproj" />
+    <ProjectReference Include="..\NetCoreAvoidingLargeControllers.Persistance\NetCoreAvoidingLargeControllers.Persistance.csproj" />
+  </ItemGroup>
+
+
+</Project>

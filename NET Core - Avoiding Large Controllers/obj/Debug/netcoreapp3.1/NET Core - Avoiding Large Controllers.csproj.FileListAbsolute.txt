@@ -1,0 +1,74 @@
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.exe
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.deps.json
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.runtimeconfig.json
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.runtimeconfig.dev.json
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\staticwebassets\NET Core - Avoiding Large Controllers.StaticWebAssets.Manifest.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\staticwebassets\NET Core - Avoiding Large Controllers.StaticWebAssets.xml
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\scopedcss\bundle\NET Core - Avoiding Large Controllers.styles.css
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.RazorTargetAssemblyInfo.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.genruntimeconfig.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NET Core - Avoiding Large Controllers\obj\Debug\netcoreapp3.1\NET Core - Avoiding Large Controllers.csproj.CopyComplete

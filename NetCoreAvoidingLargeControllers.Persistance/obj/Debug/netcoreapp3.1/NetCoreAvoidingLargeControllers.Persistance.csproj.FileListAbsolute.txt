@@ -1,0 +1,14 @@
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.deps.json
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\bin\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\bin\Debug\netcoreapp3.1\NetCoreAvodingLargeControllers.Application.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.csproj.CopyComplete
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Persistance\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Persistance.pdb

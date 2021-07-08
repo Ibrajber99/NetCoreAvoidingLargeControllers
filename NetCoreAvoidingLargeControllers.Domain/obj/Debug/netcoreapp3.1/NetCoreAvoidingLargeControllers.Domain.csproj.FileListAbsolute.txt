@@ -1,0 +1,9 @@
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.deps.json
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\bin\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\NET Core - Avoiding Large Controllers\NetCoreAvoidingLargeControllers.Domain\obj\Debug\netcoreapp3.1\NetCoreAvoidingLargeControllers.Domain.pdb
